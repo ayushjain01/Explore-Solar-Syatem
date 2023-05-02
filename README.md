@@ -1,3 +1,6 @@
+### Figma Prototype 
+[Click Here](https://www.figma.com/proto/YMQHpExh6Co2q5OoJsJvfp/Explore-Solar-System?node-id=225-232&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=225%3A232)
+
 ### Prerequisites
 
 - Xcode 12.0
@@ -12,7 +15,6 @@
 
 ### App Navigation
 Check your app's UI from the AppNavigation screens of your app.
-
 
 ### Libraries
 
