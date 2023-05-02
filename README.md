@@ -13,9 +13,6 @@
 ### App Navigation
 Check your app's UI from the AppNavigation screens of your app.
 
-### Figma design guideline for better accuracy
-Read our guidelines to increase the accuracy of design conversion to code by optimizing Figma designs. 
-https://docs.dhiwise.com/docs/Designguidelines/intro.
 
 ### Libraries
 
